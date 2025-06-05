@@ -3,9 +3,9 @@
 """
 Titan Quest TEX to PNG Converter
 
-Author: Yevhen Chefranov (@chefranov)
+Author: Yevhen Chefranov (https://github.com/chefranov/)
 Site: titanquest.org.ua
-GitHub: https://github.com/chefranov/tq_tex2png.py
+GitHub: https://github.com/chefranov/tq-tex2png.py
 """
 
 import struct
