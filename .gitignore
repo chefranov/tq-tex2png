@@ -65,8 +65,26 @@ venv/
 ENV/
 .venv/
 
-# ImageMagick temp files
-*.temp.dds
-
 import/
 export/
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Windows thumbnail cache
+*.stackdump
+
+# Windows folder config
+[Dd]esktop.ini
+
+# Windows volume info
+System Volume Information/
+
+# Windows backup files
+*.bak
+
+# Windows hidden folders
+__MACOSX__/
