@@ -1,3 +1,10 @@
+[![Game](https://img.shields.io/badge/game-Titan%20Quest-yellow)](https://titanquest.org.ua)
+[![Textures](https://img.shields.io/badge/textures-tex%20%7C%20dds-orange)](#)
+[![Images](https://img.shields.io/badge/images-png%20%7C%20dds-blueviolet)](#)
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/chefranov/tq-tex2png?style=social)](https://github.com/chefranov/tq-tex2png)
+
 # Titan Quest TEX to PNG Converter
 
 A Python tool for batch conversion of Titan Quest `.tex` texture files to standard `.png` images.
