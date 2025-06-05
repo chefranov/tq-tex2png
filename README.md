@@ -90,4 +90,4 @@ MIT License
 
 - Author: [Yevhen Chefranov](https://github.com/chefranov)
 - Site: [titanquest.org.ua](https://titanquest.org.ua)
-- GitHub: [https://github.com/chefranov/tq_tex2png.py](https://github.com/chefranov/tq_tex2png.py)
+- GitHub: [https://github.com/chefranov/tq-tex2png](https://github.com/chefranov/tq-tex2png)
